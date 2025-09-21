@@ -1,0 +1,5 @@
+venv/
+run.py
+test.py
+structured_products.json
+compiled_products.json
